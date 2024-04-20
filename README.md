@@ -8,6 +8,6 @@ This is a NFC keychain which gets its power from the NFC reader and returns the 
 
 
 ## BOM
-[Online BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/PedPEx/NFC_temp/hardware/bom/html-bom.html)
+[Online BOM](https://htmlpreview.github.io/?https://raw.githubusercontent.com/PedPEx/NFC_temp/main/hardware/bom/html-bom.html)
 
 [BOM](https://github.com/PedPEx/NFC_temp/tree/main/hardware/bom/BOM.csv)
